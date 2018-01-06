@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>connection error</title>
+	<style>
+		html, body{
+			height: 100%;
+			width:100%;
+			margin: 0;
+			padding: 0;
+			font-size: 18px;
+			color:#ececec;
+		}
+		section{
+			background: url('background.jpg') no-repeat center center;
+			background-size:cover;
+			width:100%;			
+			height: 100%;
+			max-width: 100%;
+			max-height: 100%;
+		}
+		div{
+			background:rgba(0, 0, 0, 0.5);
+			width:100%;
+			min-width: 100%;
+			height: 100%;
+			min-height: 100%;			
+			display: table;
+			vertical-align: middle;
+			text-align: center;
+		}
+		p.top{
+			position: absolute;
+			left:0;
+			right:0;
+			top:10px;
+		}
+	
+		p.middle{
+			display: table-cell;
+			vertical-align: middle;
+			position: relative;
+			color:#fff;
+			font-size: 18px;
+		}
+		p.bottom{
+			position: absolute;
+			left:0;
+			right:0;
+			bottom:10px;
+		}
+		p.middle img{width:10%;}
+		p.middle a.refresh, a.poweredby{
+			display: inline-block;
+			text-decoration: none;
+			padding:20px;
+			color:#fff;
+			font-size: 16px;
+			border-radius: 5px;
+			background:rgba(0, 0, 0, 0.5);
+		}
+
+		span.poweredby{
+			display: inline-block;
+			text-decoration: none;
+			padding:10px;
+			color:#fff;
+			font-size: 16px;
+			border-radius: 5px;
+			background:rgba(0, 0, 0, 0.5);
+		}
+		button{
+			display: inline-block;
+			text-decoration: none;
+			padding:15px;
+			color:#fff;
+			border-radius: 5px;
+			font-size: 16px;
+			background:rgba(0, 0, 0, 0.5);
+			border:none;
+			margin-top:20px;
+		}
+
+	</style>
+
+	<script>
+		function goBack() {
+		    window.history.back();
+		}
+	</script>
+
+</head>
+<body>
+	<section>
+		<div>
+			<p class="top"><img src="" alt=""></p>
+			<!-- if you want to set a logo for your site 
+			plese insert to link of that image into about img tag. -->
+
+			<p class="middle">
+				
+					<img src="wifi.png" alt=""><br>
+					<span>Please connect to the internet</span><br>
+					<!-- <a href="http://kokhon.com" class="refresh">Refresh</a> -->
+					<!-- if you want a direcet link then uncomment above a tag. -->
+					<!--<button onclick="goBack()">Refresh</button>-->
+
+				
+
+				
+			</p>
+			<p class="bottom">
+				<span>Powered by <span class="poweredby">Preneurlab</spam></span>
+			</p>
+		</div>
+	</section>
+</body>
+</html>

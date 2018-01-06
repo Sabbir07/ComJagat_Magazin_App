@@ -1,0 +1,946 @@
+[
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\title.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button.xml",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\button.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comjagat_icon.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\comjagat_icon.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_settings.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activated.xml",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\activated.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\read.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\read.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.xml",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\background.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comjagat_icon.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\comjagat_icon.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\both_btn.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\both_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\read.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\read.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_avatar_mini.jpg",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_avatar_mini.jpg"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\read.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\read.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_about.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_settings.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_about.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_home.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\both_btn.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\both_btn.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.xml",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\background.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\not_activated.xml",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\not_activated.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_avatar_mini.jpg",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_avatar_mini.jpg"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\not_activated.xml",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\not_activated.xml"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\not_activated.xml",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\not_activated.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\title.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_settings.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\both_btn.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\both_btn.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_avatar_mini.jpg",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_avatar_mini.jpg"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button.xml",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\button.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activated.xml",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\activated.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_about.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_settings.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comjagat_icon.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\comjagat_icon.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\both_btn.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\both_btn.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_avatar_mini.jpg",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_avatar_mini.jpg"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\title.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_home.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\read.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\read.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.xml",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_home.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.xml",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\background.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activated.xml",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\activated.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_home.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comjagat_icon.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\comjagat_icon.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_about.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\title.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activated.xml",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\activated.xml"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\not_activated.xml",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\src\\main\\res\\drawable-hdpi\\not_activated.xml"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\RabS\\AndroidStudioProjects\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App (5)\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\Android Studio Projects\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\Sabbir\\ComJagat Magazin App\\ComJagat Magazin App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    }
+]

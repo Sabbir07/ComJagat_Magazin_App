@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_8f460ef2388a7b6a7e85ef4b54f14a716c922557.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_8a0444d1406af7342e20a35ef38339a5dcc78e33.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\.gradle\caches\modules-2\files-2.1\com.eclipsesource.minimal-json\minimal-json\0.9.4\d6e7dd22569de97c2697a4af301a623f35028972\minimal-json-0.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d6e7dd22569de97c2697a4af301a623f35028972">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\minimal-json-0.9.4_92549cfe226d6039e89339c7833f0c8536883454.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_797ed25287c7019e36e2c6191dab12e143e2ff22.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_cf93f5144c0876244aee26a768dd4536610bb18b.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\libs\wversionmanager-1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="88ae138bf98cdb8abc22ef90c96a4bea474a7304">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\wversionmanager-1.3_b46faa5f3aa2188198865cbda3cda8ae04b9aacc.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_72f54025e5e3fa8827a71e52ec881532c4371850.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_7a5b2592caa6fe3d3dceb6cc3727e4397d7c67f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_f25206a2166387696d19fe614c47e40efdf53663.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.2\20f6463eb19ac61960c5d91a094c2f4f0727dc2e\okhttp-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\okhttp-2.7.2_457b615ce961551f76e28e87d76727cf6469a68d.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\okio-1.6.0_e036ef0e0f2472d80a76a943cae2948a90ca1639.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_2d530b00b3c16070649aca3ef2fab9913b64f2e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_f39ecf61d2e8708fd13db6035738efa2bc02f026.jar" />
+    </item>
+    <item
+        jar="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\RabS\AndroidStudioProjects\ComJagat Magazin App\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_26e1000f9bf461a38127f35876593b54207ca867.jar" />
+    </item>
+
+</items>
